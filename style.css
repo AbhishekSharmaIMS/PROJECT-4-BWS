@@ -1,0 +1,293 @@
+
+        #g6{
+             height: 120px;   
+        }
+        #g5{
+            font-size: 30px;
+            text-align: right;
+        }
+        #g1{
+           
+            display: inline-block;
+            font-size: 40px;
+            margin: 0px 383px 0px 0px;
+            padding: 28px 0px 35px 334px;
+        }
+        .g2{
+           
+            display: inline-block;
+            font-size: 18px;
+            margin: 0px 58px 0px 0px;
+        }
+        #g7{
+           
+            height: 70px;
+            display: inline-block;
+        }
+        #bottom1{
+            
+            width: 100%;
+            height: 700px;
+            background-image: url("unsplash1.jpg");
+            background-size: cover;
+            background-position: center center;
+        }
+        #bottom2{
+            
+            width: 100%;
+            height: 900px;
+        }
+        #bottom3{
+            
+            width: 100%;
+            height: 1000px;
+        }
+        #bottom4{
+            
+            width: 100%;
+            height: 1000px;
+        }
+        #bottom5{
+            
+            width: 100%;
+            height: 350px;
+            background-color: purple;
+        }
+        #bottom6{
+            
+            width: 100%;
+            height: 800px;
+        }
+       
+        .whole1{
+            
+            display: inline-block;
+            margin: 191px 0px 0px 236px;
+        
+
+        }
+        .b11{
+            font-size: 52px;
+            margin-bottom: 37px;
+            color: aliceblue;
+        }
+        .b12{
+            font-size: 33px;
+            margin-bottom: 44px;
+            color: aliceblue;
+        }
+        .b13{
+            font-size: 27px;
+            width: 177px;
+        }
+        .b14{
+           
+            padding: 15px ;
+        }
+        .b21{
+            
+            margin: 112px 0px 131px 442px;
+            font-size: 31px;
+            
+            
+        }
+        .b22{
+            
+            width: 531px;
+            height: 485px;
+            
+            margin: 0px 0px 0px 213px;
+            display: inline-block;
+            
+            
+        }
+        .b23{
+           
+            width: 531px;
+            height: 485px;
+            margin: 0px 0px 0px 124px;
+            display: inline-block;
+            
+            
+        }
+        .b24{
+            
+            height: 161px;
+            padding: 0px 0px 0px 0px;
+           
+        }
+        .b25{
+          
+            height: 161px;
+            padding: 0px 0px 0px 0px;
+           
+        }
+        .b26{
+            
+            height: 319px;
+            background-image: url("unsplash3.jpg");
+            background-size: cover;
+            background-position: center center;
+        }
+        .b27{
+            
+            height: 319px;
+            background-image: url("unsplash2.jpg");
+            background-size: cover;
+            background-position: center center;
+        }
+        .b241{
+              font-size: 33px;
+              margin: 14px 0px 0px 180px;
+        }
+        .b242{
+            font-size: 23px;
+              margin: 12px 0px 0px 41px;
+        }
+        .b243{
+            font-size: 18px;
+              margin: 8px 0px 0px 180px;
+        }
+        .b244{
+            font-size: 23px;
+              margin: 0px 0px 0px 208px;
+        }
+        .b251{
+            font-size: 33px;
+            margin: 14px 0px 0px 180px;
+      }
+      .b252{
+          font-size: 23px;
+            margin: 12px 0px 0px 41px;
+      }
+      .b253{
+          font-size: 18px;
+            margin: 8px 0px 0px 209px;
+      }
+      .b254{
+        font-size: 23px;
+          margin: 0px 0px 0px 245px;
+    }
+      .b31{
+        
+        width: 814px;
+        height: 497px;
+        margin: 179px 0px 0px 254px;
+        display: inline-block;
+        background-image: url("unsplash4.jpg");
+        background-size: cover;
+            background-position: center center;
+      }
+      .b32{
+       
+        width: 425px;
+        height: 274px;
+        margin: 363px 0px 0px 669px;
+        padding: 0px 0px 0px 0px;
+        display: inline-block;
+        background-color: rgba(0, 25, 45);
+      }
+      .b321{
+        font-size: 33px;
+        margin: 54px 0px 0px 33px;
+        color: white;
+      }
+      .b322{
+        font-size: 23px;
+        margin: 20px 0px 0px 33px;
+        color: white;
+      }
+      .b323{
+        font-size: 24px;
+
+        
+      }
+      .b324{
+        color: black;
+        margin: 31px 0px 0px 34px;
+      }
+      .b41{
+        
+        width: 814px;
+        height: 497px;
+        margin: 179px 0px 0px 609px;
+        display: inline-block;
+        background-image: url("unsplash5.jpg");
+        background-size: cover;
+            background-position: center center;
+       
+      }
+      .b42{
+    
+        width: 425px;
+        height: 274px;
+        margin: 363px 0px 0px -270px;
+        padding: 0px 0px 0px 0px;
+        display: inline-block;
+        background-color: rgba(0, 25, 45);
+     
+      }
+      .b421{
+        font-size: 33px;
+        margin: 54px 0px 0px 33px;
+        color: white;
+      }
+      .b422{
+        font-size: 23px;
+        margin: 20px 0px 0px 33px;
+        color: white;
+      }
+      .b423{
+        font-size: 24px;
+
+        
+      }
+      .b424{
+        color: black;
+        margin: 31px 0px 0px 34px;
+      }
+     .b51{
+        font-size: 49px;
+        margin: 67px 0px 0px 130px;
+        color: white;
+     }
+       
+     .b52{
+        font-size: 24px;
+        margin: 35px 0px 0px 130px;
+        color: white;
+     }
+       
+     .b53{
+        font-size: 23px;
+        margin: -100px 0px 0px 1197px;
+        color: white;
+     }
+     .b54{
+        font-size: 23px;
+        margin: 9px 21px 7px 21px;
+        color: black;
+     }
+     .b61{
+         font-size: 34px;
+         margin: 94px 0px 0px 322px;
+     }
+     .b62{
+        font-size: 22px;
+         margin: 0px 0px 0px 0px;
+         color: blueviolet;
+     }
+     .b65{
+        
+         margin: 33px 0px 0px 651px;
+         
+       }
+     .b63{
+        font-size: 32px;
+         margin: 217px 0px 0px 327px;
+         font-weight: bold;
+     }
+     .b64{
+        font-size: 20px;
+         margin: 47px 0px 0px 619px;
+     }
